@@ -1,0 +1,16 @@
+C:\Users\Acer\Pet\DevinHouse\MovendoElementosDeUmArray\MovendoElementosDeUmArray\bin\Debug\net5.0\MovendoElementosDeUmArray.exe
+C:\Users\Acer\Pet\DevinHouse\MovendoElementosDeUmArray\MovendoElementosDeUmArray\bin\Debug\net5.0\MovendoElementosDeUmArray.deps.json
+C:\Users\Acer\Pet\DevinHouse\MovendoElementosDeUmArray\MovendoElementosDeUmArray\bin\Debug\net5.0\MovendoElementosDeUmArray.runtimeconfig.json
+C:\Users\Acer\Pet\DevinHouse\MovendoElementosDeUmArray\MovendoElementosDeUmArray\bin\Debug\net5.0\MovendoElementosDeUmArray.runtimeconfig.dev.json
+C:\Users\Acer\Pet\DevinHouse\MovendoElementosDeUmArray\MovendoElementosDeUmArray\bin\Debug\net5.0\MovendoElementosDeUmArray.dll
+C:\Users\Acer\Pet\DevinHouse\MovendoElementosDeUmArray\MovendoElementosDeUmArray\bin\Debug\net5.0\ref\MovendoElementosDeUmArray.dll
+C:\Users\Acer\Pet\DevinHouse\MovendoElementosDeUmArray\MovendoElementosDeUmArray\bin\Debug\net5.0\MovendoElementosDeUmArray.pdb
+C:\Users\Acer\Pet\DevinHouse\MovendoElementosDeUmArray\MovendoElementosDeUmArray\obj\Debug\net5.0\MovendoElementosDeUmArray.csproj.AssemblyReference.cache
+C:\Users\Acer\Pet\DevinHouse\MovendoElementosDeUmArray\MovendoElementosDeUmArray\obj\Debug\net5.0\MovendoElementosDeUmArray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Acer\Pet\DevinHouse\MovendoElementosDeUmArray\MovendoElementosDeUmArray\obj\Debug\net5.0\MovendoElementosDeUmArray.AssemblyInfoInputs.cache
+C:\Users\Acer\Pet\DevinHouse\MovendoElementosDeUmArray\MovendoElementosDeUmArray\obj\Debug\net5.0\MovendoElementosDeUmArray.AssemblyInfo.cs
+C:\Users\Acer\Pet\DevinHouse\MovendoElementosDeUmArray\MovendoElementosDeUmArray\obj\Debug\net5.0\MovendoElementosDeUmArray.csproj.CoreCompileInputs.cache
+C:\Users\Acer\Pet\DevinHouse\MovendoElementosDeUmArray\MovendoElementosDeUmArray\obj\Debug\net5.0\MovendoElementosDeUmArray.dll
+C:\Users\Acer\Pet\DevinHouse\MovendoElementosDeUmArray\MovendoElementosDeUmArray\obj\Debug\net5.0\ref\MovendoElementosDeUmArray.dll
+C:\Users\Acer\Pet\DevinHouse\MovendoElementosDeUmArray\MovendoElementosDeUmArray\obj\Debug\net5.0\MovendoElementosDeUmArray.pdb
+C:\Users\Acer\Pet\DevinHouse\MovendoElementosDeUmArray\MovendoElementosDeUmArray\obj\Debug\net5.0\MovendoElementosDeUmArray.genruntimeconfig.cache
